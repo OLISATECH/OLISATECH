@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OLISATECH
 - 👀 I’m interested in software development...
-- 🌱 I’m currently learning web design
-- 💞️ I’m looking to collaborate on github
+- 🌱 I’m currently learning mobile app dev and web dev
+- 💞️ I’m looking forward to collaborate on github
 - 📫 How to reach me Ideals4433@gmail.com
 
 <!---
